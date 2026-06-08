@@ -1,108 +1,119 @@
-# 💫 About Me
+<div align="center">
 
-Hi, I’m **Prathmesh Ingole** 👋  
-A Data Analyst in training with a strong foundation in Computer Science, Python, SQL, and data visualization.
+# Hey, I'm Prathmesh Ingole 👋
 
-I enjoy working with data to uncover insights, build dashboards, and support data-driven decision making. Alongside analytics, I have hands-on experience in web development and database management, which helps me understand systems end to end.
+**Data Analyst in Training · CS Graduate · Insight Hunter**
 
-I’ve worked on real-world projects like sales analysis and a vehicle breakdown assistance platform, and completed industry-recognized virtual internships with Deloitte and Tata through Forage. I believe in learning by doing and continuously improving my technical and analytical skills.
+*Turning raw data into decisions — one query at a time.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Prathmesh%20Ingole)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Prathmeshh8033)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Prathmesh0work&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 ---
 
-## 🎓 Education
-**B.Sc. in Computer Science**  
-Savitribai Phule Pune University  
-2022 – 2025
+## 💫 About Me
 
-**Higher Secondary Certificate (HSC)** – Pune | 2022  
-**Secondary School Certificate (SSC)** – Pune | 2020  
+I'm a **B.Sc. Computer Science** graduate from Savitribai Phule Pune University with a passion for making data tell meaningful stories. My work sits at the intersection of **data analytics**, **machine learning**, and **web development** — I enjoy understanding systems end to end, from the database layer all the way to the dashboard.
+
+- 💼 Currently a **Technical Intern at Lemma Technologies** *(May 2026 – Present)*
+- 📊 Experienced with **Tableau, Power BI, Excel**, and **Python**-based analytics
+- 🌐 Built full-stack projects using **Java, MySQL, HTML/CSS, Bootstrap**
+- 🏆 Completed virtual internships with **Deloitte** and **Tata (TCS)** via Forage
+- 📍 Based in **Pune, India**
+- 🤝 Open to **Data Analyst / Data Science** opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Data & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**BI & Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+**Web & Database**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📣 [Campaign Performance Prediction](https://github.com/prathmesh0work/Campaign-Performance-Prediction)
+> Python · Random Forest · Linear Regression · Power BI · EDA
+
+End-to-end ML project for predicting advertising campaign performance and ROI. Includes full EDA, data preprocessing, regression modelling, Random Forest-based classification, feature importance analysis, and an executive Power BI dashboard — built during internship at Lemma Technologies.
+
+---
+
+### 🔐 [Credit Card Fraud Detection](https://github.com/prathmesh0work/credit-card-fraud-detection)
+> Python · Scikit-learn · SMOTE · Random Forest · Logistic Regression
+
+Built a binary classifier on 284,807 transactions (0.17% fraud rate). Applied SMOTE to handle severe class imbalance. Random Forest outperformed Logistic Regression by capturing non-linear patterns, achieving strong ROC-AUC performance.
 
 ---
 
 ## 💼 Experience
 
-### Deloitte Australia  
-**Data Analytics Virtual Internship | Forage**  
-Jul 2025  
+| Role | Organization | Period |
+|------|-------------|--------|
+| **Technical Intern** 🟢 | **Lemma Technologies** | May 2026 – Present |
+| Data Analytics Virtual Intern | Deloitte Australia (Forage) | Jul 2025 |
+| Data Visualization Job Simulation | Tata Consultancy Services (Forage) | Aug 2025 |
 
-- Analyzed forensic datasets with over 10,000 records to extract actionable insights  
-- Built an interactive Tableau dashboard with 5 key business KPIs  
-- Used Excel formulas and pivot tables to classify and analyze data  
-- Improved insight accessibility and decision accuracy through structured analysis  
-
-### Tata Consultancy Services  
-**Data Visualization Job Simulation | Forage**  
-Aug 2025  
-
-- Created data visualizations to support executive decision-making  
-- Prepared client-focused questions for senior leadership discussions  
-- Translated business requirements into clear, impactful visuals  
-
----
-
-## 🚀 Projects
-
-### Sales Analysis  
-**MySQL | Aug 2024 – Sep 2024**
-
-- Analyzed 10,000+ sales records to identify trends and performance metrics  
-- Wrote optimized SQL queries for monthly and quarterly reports  
-- Highlighted top-performing products and regions to support business decisions  
-
-### Vehicle Breakdown Assistance  
-**Java, MySQL, HTML, CSS, Bootstrap | Jan 2025 – Mar 2025**
-
-- Developed a web-based roadside assistance platform  
-- Implemented real-time service request and tracking features  
-- Reduced average response time by 25% through optimized service allocation  
-- Improved user experience with live status updates  
-
----
-
-## 💻 Technical Skills
-
-### Programming
-Python, Java, JavaScript, SQL  
-
-### Data Analysis & Visualization
-Pandas, NumPy, Matplotlib, Seaborn  
-Power BI, Tableau, Excel  
-
-### Databases
-MySQL  
-
-### Web Technologies
-HTML, CSS, Bootstrap  
-
-### Tools
-Visual Studio Code  
+**Highlights:**
+- Analyzed forensic datasets with 10,000+ records; built a 5-KPI Tableau dashboard (Deloitte)
+- Translated executive business requirements into clear, decision-ready visuals (TCS)
 
 ---
 
 ## 📜 Certifications
 
-- **Data Analyst Certification** – AISECT Skill India (2025)  
-  Python, SQL, Data Visualization, Statistical Analysis  
-
-- **Python & SQL** – ETLHIVE (2024)  
-  Data manipulation, querying, and automation  
-
----
-
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Prathmeshh8033)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prathmesh%20Ingole)
+- 🏅 **Data Analyst Certification** — AISECT Skill India (2025) · Python, SQL, Visualization, Statistics
+- 🏅 **Python & SQL** — ETLHIVE (2024) · Data manipulation, querying, automation
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Prathmesh0work&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Prathmesh0work&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh0work&theme=dark&hide_border=false&layout=compact)
+
+<div align="center">
+
+![Prathmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathmesh0work&theme=dark&hide_border=true&show_icons=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Prathmesh0work&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh0work&theme=dark&hide_border=true&layout=compact)
+
+</div>
 
 ---
 
-### 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Prathmesh0work&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM -->
+*"Data is not just numbers — it's a story waiting to be told."*
+
+⭐ **Feel free to explore my repos and drop a star if something interests you!**
+
+</div>
