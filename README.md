@@ -19,7 +19,7 @@
 I'm a **B.Sc. Computer Science** graduate from Savitribai Phule Pune University with a passion for making data tell meaningful stories. My work sits at the intersection of **data analytics**, **machine learning**, and **web development** — I enjoy understanding systems end to end, from the database layer all the way to the dashboard.
 
 - 💼 Currently a **Technical Intern at Lemma Technologies** *(May 2026 – Present)*
-- 📊 Experienced with **Tableau, Power BI, Excel**, and **Python**-based analytics
+- 📊 Experienced with **Tableau, Power BI, Excel, SQL**, and **Python**-based analytics
 - 🌐 Built full-stack projects using **Java, MySQL, HTML/CSS, Bootstrap**
 - 🏆 Completed virtual internships with **Deloitte** and **Tata (TCS)** via Forage
 - 📍 Based in **Pune, India**
