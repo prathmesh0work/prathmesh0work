@@ -93,6 +93,7 @@ Built a binary classifier on 284,807 transactions (0.17% fraud rate). Applied SM
 
 - 🏅 **Data Analyst Certification** — AISECT Skill India (2025) · Python, SQL, Visualization, Statistics
 - 🏅 **Python & SQL** — ETLHIVE (2024) · Data manipulation, querying, automation
+- 🏅 **SQL (Basic)** — HackerRank · [Verify](your-verification-link-basic)
 - 🏅 **SQL (Intermediate)** – HackerRank ([Verify](https://www.hackerrank.com/certificates/060e5df87ee7))
 
 ---
