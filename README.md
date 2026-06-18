@@ -7,8 +7,6 @@
 *Turning raw data into decisions — one query at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Prathmesh%20Ingole)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Prathmeshh8033)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Prathmesh0work&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
