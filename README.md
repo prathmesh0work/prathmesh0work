@@ -2,7 +2,7 @@
 
 # Hey, I'm Prathmesh Ingole 👋
 
-**Data Analyst in Training · CS Graduate · Insight Hunter**
+**Data Analyst in Training · M.Sc. Data Science Student · Insight Hunter**
 
 *Turning raw data into decisions — one query at a time.*
 
@@ -14,11 +14,13 @@
 
 ## 💫 About Me
 
-I'm a **B.Sc. Computer Science** graduate from Savitribai Phule Pune University with a passion for making data tell meaningful stories. My work sits at the intersection of **data analytics**, **machine learning**, and **web development** — I enjoy understanding systems end to end, from the database layer all the way to the dashboard.
+I'm a **B.Sc. Computer Science** graduate from Savitribai Phule Pune University, currently pursuing my **M.Sc. in Data Science**, with a passion for making data tell meaningful stories. My work sits at the intersection of **data analytics**, **machine learning**, **deep learning**, and **web development** — I enjoy understanding systems end to end, from the database layer all the way to the dashboard.
 
+- 🎓 Pursuing **M.Sc. Data Science** *(Active)*
 - 💼 Currently a **Technical Intern at Lemma Technologies** *(May 2026 – Present)*
 - 📊 Experienced with **Tableau, Power BI, Excel, SQL**, and **Python**-based analytics
-- 🌐 Built full-stack projects using **Java, MySQL, HTML/CSS, Bootstrap**
+- 🤖 Exploring **AI, Machine Learning & Deep Learning** — from classical models to neural networks
+- 🌐 Built full-stack projects using **Javascript, MySQL, HTML/CSS, Bootstrap**
 - 🏆 Completed virtual internships with **Deloitte** and **Tata (TCS)** via Forage
 - 📍 Based in **Pune, India**
 - 🤝 Open to **Data Analyst / Data Science** opportunities
@@ -40,7 +42,13 @@ I'm a **B.Sc. Computer Science** graduate from Savitribai Phule Pune University 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Machine Learning & AI**
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **BI & Visualization**
 
@@ -91,7 +99,7 @@ Built a binary classifier on 284,807 transactions (0.17% fraud rate). Applied SM
 
 - 🏅 **Data Analyst Certification** — AISECT Skill India (2025) · Python, SQL, Visualization, Statistics
 - 🏅 **Python & SQL** — ETLHIVE (2024) · Data manipulation, querying, automation
-- 🏅 **SQL (Basic)** — HackerRank  ([Verify](your-verification-link-basic))
+- 🏅 **SQL (Basic)** — HackerRank ([Verify](your-verification-link-basic))
 - 🏅 **SQL (Intermediate)** – HackerRank ([Verify](https://www.hackerrank.com/certificates/060e5df87ee7))
 
 ---
