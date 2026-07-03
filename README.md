@@ -102,6 +102,8 @@ Built a binary classifier on 284,807 transactions (0.17% fraud rate). Applied SM
 - 🏅 **Python & SQL** — ETLHIVE (2024) · Data manipulation, querying, automation
 - 🏅 **SQL (Basic)** — HackerRank ([Verify](your-verification-link-basic))
 - 🏅 **SQL (Intermediate)** – HackerRank ([Verify](https://www.hackerrank.com/certificates/060e5df87ee7))
+- 🏅 **AI Tools Workshop** — be10x (June 2026) · AI-assisted presentations, data analysis, code & debugging ([Verify](https://app.aicareeraccelerator.in/certificate/QKQo1n-iL4eqsYK))
+- 🏅 **Viksit Bharat Young Leaders Dialogue (VBYLD) 2026** — Ministry of Youth Affairs & Sports, MYBharat (Oct 2025) · Online Quiz Participatio
 
 ---
 
