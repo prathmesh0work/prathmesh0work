@@ -107,20 +107,6 @@ Built a binary classifier on 284,807 transactions (0.17% fraud rate). Applied SM
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Prathmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathmesh0work&theme=dark&hide_border=true&show_icons=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Prathmesh0work&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh0work&theme=dark&hide_border=true&layout=compact)
-
-</div>
-
----
-
 <div align="center">
 
 *"Data is not just numbers — it's a story waiting to be told."*
