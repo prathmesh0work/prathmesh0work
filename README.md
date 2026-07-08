@@ -6,7 +6,7 @@
 
 *Turning raw data into decisions — one query at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Prathmesh%20Ingole)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-ingole-12709a315?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 </div>
 
