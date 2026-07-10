@@ -1,118 +1,185 @@
 <div align="center">
 
-# Hey, I'm Prathmesh Ingole 👋
+# Hi there 👋 I'm Prathmesh Ingole
 
-**Data Analyst in Training · M.Sc. Data Science Student · Insight Hunter**
+### 📊 Data Analyst | M.Sc. Data Science Student | Technical Intern @ Lemma Technologies
 
-*Turning raw data into decisions — one query at a time.*
+Turning raw data into meaningful business insights through **SQL, Python, Power BI, and Machine Learning**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-ingole-12709a315?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+<p>
+<a href="https://www.linkedin.com/in/prathmesh-ingole-12709a315">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:prathmesh0@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=prathmesh0work&style=for-the-badge&color=blue"/>
+
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 🚀 About Me
 
-I'm a **B.Sc. Computer Science** graduate from Savitribai Phule Pune University, currently pursuing my **M.Sc. in Data Science**, with a passion for making data tell meaningful stories. My work sits at the intersection of **data analytics**, **machine learning**, **deep learning**, and **web development** — I enjoy understanding systems end to end, from the database layer all the way to the dashboard.
+🎓 M.Sc. Data Science Student
 
-- 🎓 Pursuing **M.Sc. Data Science** *(Active)*
-- 💼 Currently a **Technical Intern at Lemma Technologies** *(May 2026 – Present)*
-- 📊 Experienced with **Tableau, Power BI, Excel, SQL**, and **Python**-based analytics
-- 🤖 Exploring **AI, Machine Learning & Deep Learning** — from classical models to neural networks
-- 🌐 Built full-stack projects using **Javascript, MySQL, HTML/CSS, Bootstrap,Flask**
-- 🏆 Completed virtual internships with **Deloitte** and **Tata (TCS)** via Forage
-- 📍 Based in **Pune, India**
-- 🤝 Open to **Data Analyst / Data Science** opportunities
+💼 Technical Intern at **Lemma Technologies**
 
----
+📈 Passionate about Data Analytics, Business Intelligence & Machine Learning
 
-## 🛠️ Tech Stack
+📊 Experienced in SQL, Python, Power BI, Tableau & Excel
 
-**Languages**
+🌱 Currently learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- Advanced SQL
+- Machine Learning
+- Deep Learning
+- Data Engineering
 
-**Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Machine Learning & AI**
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**BI & Visualization**
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=flat-square&logo=lookerstudio&logoColor=white)
-
-**Web & Database**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+🎯 Goal: Become a Data Analyst / BI Developer solving real business problems.
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-### 📣 [Campaign Performance Prediction](https://github.com/prathmesh0work/Campaign-Performance-Prediction)
-> Python · Random Forest · Linear Regression · Power BI · EDA
+### Languages
 
-End-to-end ML project for predicting advertising campaign performance and ROI. Includes full EDA, data preprocessing, regression modelling, Random Forest-based classification, feature importance analysis, and an executive Power BI dashboard — built during internship at Lemma Technologies.
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,html,css,bootstrap,flask"/>
+</p>
+
+### Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel"/>
+
+</p>
 
 ---
 
-### 🔐 [Credit Card Fraud Detection](https://github.com/prathmesh0work/credit-card-fraud-detection)
-> Python · Scikit-learn · SMOTE · Random Forest · Logistic Regression
+# 🌟 Featured Projects
 
-Built a binary classifier on 284,807 transactions (0.17% fraud rate). Applied SMOTE to handle severe class imbalance. Random Forest outperformed Logistic Regression by capturing non-linear patterns, achieving strong ROC-AUC performance.
+## 📣 Campaign Performance Prediction
 
----
+End-to-end machine learning pipeline for predicting advertising campaign ROI using regression, Random Forest, feature engineering, and Power BI dashboard.
 
-## 💼 Experience
+**Tech Stack**
 
-| Role | Organization | Period |
-|------|-------------|--------|
-| **Technical Intern** 🟢 | **Lemma Technologies** | May 2026 – Present |
-| Data Analytics Virtual Intern | Deloitte Australia (Forage) | Jul 2025 |
-| Data Visualization Job Simulation | Tata Consultancy Services (Forage) | Aug 2025 |
+Python • Pandas • Scikit-Learn • Power BI • SQL
 
-**Highlights:**
-- Analyzed forensic datasets with 10,000+ records; built a 5-KPI Tableau dashboard (Deloitte)
-- Translated executive business requirements into clear, decision-ready visuals (TCS)
+🔗 Repository
+
+https://github.com/prathmesh0work/Campaign-Performance-Prediction
 
 ---
 
-## 📜 Certifications
+## 💳 Credit Card Fraud Detection
 
-- 🏅 **Data Analyst Certification** — AISECT Skill India (2025) · Python, SQL, Visualization, Statistics
-- 🏅 **Python & SQL** — ETLHIVE (2024) · Data manipulation, querying, automation
-- 🏅 **SQL (Basic)** — HackerRank ([Verify](your-verification-link-basic))
-- 🏅 **SQL (Intermediate)** – HackerRank ([Verify](https://www.hackerrank.com/certificates/060e5df87ee7))
-- 🏅 **AI Tools Workshop** — be10x (June 2026) · AI-assisted presentations, data analysis, code & debugging ([Verify](https://app.aicareeraccelerator.in/certificate/QKQo1n-iL4eqsYK))
-- 🏅 **Viksit Bharat Young Leaders Dialogue (VBYLD) 2026** — Ministry of Youth Affairs & Sports, MYBharat (Oct 2025) · Online Quiz Participatio
+Machine Learning project using SMOTE, Logistic Regression, Random Forest, and ROC-AUC evaluation to detect fraudulent transactions.
+
+**Tech Stack**
+
+Python • Scikit-Learn • SMOTE • Pandas
+
+🔗 Repository
+
+https://github.com/prathmesh0work/credit-card-fraud-detection
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathmesh0work&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh0work&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh0work&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prathmesh0work&theme=algolia&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+✔ HackerRank SQL (Intermediate)
+
+✔ AISECT Data Analyst
+
+✔ Python & SQL – ETLHIVE
+
+✔ Deloitte Data Analytics Virtual Internship
+
+✔ Tata Data Visualization Virtual Internship
+
+✔ be10x AI Tools Workshop
+
+---
+
+# 💼 Experience
+
+### Technical Intern
+
+📍 Lemma Technologies
+
+**May 2026 – Present**
+
+- Built analytics dashboards using Power BI.
+- Performed campaign performance analysis.
+- Worked with SQL and Python for data processing.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/prathmesh-ingole-12709a315">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-*"Data is not just numbers — it's a story waiting to be told."*
+### ⭐ Thanks for visiting my profile!
 
-⭐ **Feel free to explore my repos and drop a star if something interests you!**
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 </div>
