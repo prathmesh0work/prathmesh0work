@@ -64,16 +64,34 @@ Turning raw data into meaningful business insights through **SQL, Python, Power 
 
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel"/>
-
 </p>
 
----
+<p>
 
+### Business Intelligence & Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Google Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+</p>
+
+
+## 📈 Data Analytics Workflow
+
+![Data Collection](https://img.shields.io/badge/Data%20Collection-2196F3?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=flat-square)
+![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-009688?style=flat-square)
+![Data Transformation](https://img.shields.io/badge/Data%20Transformation-8BC34A?style=flat-square)
+![Exploratory Data Analysis](https://img.shields.io/badge/EDA-FF9800?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9C27B0?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-795548?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-673AB7?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F44336?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-00BCD4?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-E91E63?style=flat-square)
+![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-FFC107?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-3F51B5?style=flat-square)
 # 🌟 Featured Projects
 
 ## 📣 Campaign Performance Prediction
