@@ -43,55 +43,81 @@ Turning raw data into meaningful business insights through **SQL, Python, Power 
 🎯 Goal: Become a Data Analyst / BI Developer solving real business problems.
 
 ---
+# 🛠️ Tech Stack
 
-# 🛠 Tech Stack
+## 💻 Programming Languages
 
-### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,html,css,bootstrap,flask"/>
-</p>
+**Python • SQL • Java • JavaScript**
 
-### Data Analytics
+---
 
-<p>
+## 📊 Data Analytics & Data Science
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+**Pandas • NumPy • Matplotlib • Seaborn**
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+---
 
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
+## 🤖 Machine Learning & AI
 
-</p>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-<p>
+**Scikit-Learn • TensorFlow • PyTorch**
 
-### Business Intelligence & Visualization
+---
+
+## 📈 Business Intelligence & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Google Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-</p>
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+**Power BI • Tableau • Google Looker Studio • Microsoft Excel**
+
+---
+
+## 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**MySQL • SQLite**
+
+---
+
+## 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+
+**HTML5 • CSS3 • Bootstrap • Flask • Gunicorn**
+
+## ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+**Git • GitHub • Jupyter Notebook • Google Colab • VS Code**
 
 
-## 📈 Data Analytics Workflow
-
-![Data Collection](https://img.shields.io/badge/Data%20Collection-2196F3?style=flat-square)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=flat-square)
-![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-009688?style=flat-square)
-![Data Transformation](https://img.shields.io/badge/Data%20Transformation-8BC34A?style=flat-square)
-![Exploratory Data Analysis](https://img.shields.io/badge/EDA-FF9800?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9C27B0?style=flat-square)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-795548?style=flat-square)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-673AB7?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F44336?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-00BCD4?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-E91E63?style=flat-square)
-![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-FFC107?style=flat-square)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-3F51B5?style=flat-square)
 # 🌟 Featured Projects
 
 ## 📣 Campaign Performance Prediction
