@@ -69,9 +69,16 @@ Turning raw data into meaningful business insights through **SQL, Python, Power 
 
 ## 🤖 Machine Learning & AI
 
+
+
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4B8BBE?style=flat-square)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-306998?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-2E7D32?style=flat-square)
+![SMOTE](https://img.shields.io/badge/SMOTE-FF6F00?style=flat-square)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 
 **Scikit-Learn • TensorFlow • PyTorch**
 
