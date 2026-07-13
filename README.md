@@ -39,8 +39,9 @@ Turning raw data into meaningful business insights through **SQL, Python, Power 
 - Machine Learning
 - Deep Learning
 - Data Engineering
+- Prompt Engineering
 
-🎯 Goal: Become a Data Analyst / BI Developer solving real business problems.
+🎯 Goal: Become a Data Analyst / Data Engineer / BI Developer solving real business problems.
 
 ---
 # 🛠️ Tech Stack
@@ -49,7 +50,6 @@ Turning raw data into meaningful business insights through **SQL, Python, Power 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
@@ -62,6 +62,12 @@ Turning raw data into meaningful business insights through **SQL, Python, Power 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blue?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-success?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-orange?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-Process-purple?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-red?style=flat-square)
+
 
 
 
@@ -70,7 +76,8 @@ Turning raw data into meaningful business insights through **SQL, Python, Power 
 ## 🤖 Machine Learning & AI
 
 
-
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=flat-square)
 ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4B8BBE?style=flat-square)
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-306998?style=flat-square)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-2E7D32?style=flat-square)
@@ -189,6 +196,8 @@ https://github.com/prathmesh0work/credit-card-fraud-detection
 
 ✔ AISECT Data Analyst
 
+✔ GitHub Copilot Fundamentals (Microsoft Learn)
+
 ✔ Python & SQL – ETLHIVE
 
 ✔ Deloitte Data Analytics Virtual Internship
@@ -198,7 +207,6 @@ https://github.com/prathmesh0work/credit-card-fraud-detection
 ✔ be10x AI Tools Workshop
 
 ---
-
 # 💼 Experience
 
 ### Technical Intern
@@ -207,9 +215,11 @@ https://github.com/prathmesh0work/credit-card-fraud-detection
 
 **May 2026 – Present**
 
-- Built analytics dashboards using Power BI.
-- Performed campaign performance analysis.
-- Worked with SQL and Python for data processing.
+- Built interactive Power BI dashboards for campaign analytics.
+- Performed data cleaning, EDA, and KPI reporting using Python.
+- Queried and transformed large datasets using SQL.
+- Developed machine learning models for campaign performance prediction.
+- Used Prompt Engineering and GitHub Copilot to improve development productivity.
 
 ---
 
