@@ -190,21 +190,16 @@ https://github.com/prathmesh0work/credit-card-fraud-detection
 
 ---
 
-# 📜 Certifications
-
-✔ HackerRank SQL (Intermediate)
-
-✔ AISECT Data Analyst
-
-✔ GitHub Copilot Fundamentals (Microsoft Learn)
-
-✔ Python & SQL – ETLHIVE
-
-✔ Deloitte Data Analytics Virtual Internship
-
-✔ Tata Data Visualization Virtual Internship
-
-✔ be10x AI Tools Workshop
+## 📜 Certifications
+ 
+- 🏅 **Data Analyst Certification** — AISECT Skill India (2025) · Python, SQL, Visualization, Statistics
+- 🏅 **Python & SQL** — ETLHIVE (2024) · Data manipulation, querying, automation
+- 🏅 **SQL (Basic)** — HackerRank ([Verify](your-verification-link-basic))
+- 🏅 **SQL (Intermediate)** – HackerRank ([Verify](https://www.hackerrank.com/certificates/060e5df87ee7))
+- 🏅 **AI Tools Workshop** — be10x (June 2026) · AI-assisted presentations, data analysis, code & debugging ([Verify](https://app.aicareeraccelerator.in/certificate/QKQo1n-iL4eqsYK))
+- 🏅 **Viksit Bharat Young Leaders Dialogue (VBYLD) 2026** — Ministry of Youth Affairs & Sports, MYBharat (Oct 2025) · Online Quiz Participation
+- 🏅 **Digital Edge 101** — FutureSkills Prime, NASSCOM (Mar 2026) · Course Participation
+- 🏅 **Gen AI 101** — FutureSkills Prime, NASSCOM (Mar 2026) · Course Participation
 
 ---
 # 💼 Experience
