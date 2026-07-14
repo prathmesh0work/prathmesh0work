@@ -191,7 +191,10 @@ https://github.com/prathmesh0work/credit-card-fraud-detection
 ---
 
 ## 📜 Certifications
- 
+
+
+ - 🏅 **Data Analytics Job Simulation** — Deloitte, via Forage (Jul 2025) · Data analysis, forensic technology · User Verification Code: 5MXHZHD24y853rcgg
+- 🏅 **Data Visualisation: Empowering Business with Effective Insights** — Tata (TCS), via Forage (Aug 2025) · Framing business scenarios, choosing/creating effective visuals, communicating insights · User Verification Code: 5MXHZHD24y853rcgg
 - 🏅 **Data Analyst Course** — AISECT Skill India, NSDC (18 Feb 2025) · Grade B · Certificate ID: CERT_2495429
 - 🏅 **Python Programming** — ETLHIVE (Oct 2024) · ID: 968849PR
 - 🏅 **SQL** — ETLHIVE (Oct 2024) · ID: 968849PR
@@ -201,6 +204,8 @@ https://github.com/prathmesh0work/credit-card-fraud-detection
 - 🏅 **Viksit Bharat Young Leaders Dialogue (VBYLD) 2026** — Ministry of Youth Affairs & Sports, MYBharat (Oct 2025) · Online Quiz Participation
 - 🏅 **Digital Edge 101** — FutureSkills Prime, NASSCOM (Mar 2026) · Course Participation
 - 🏅 **Gen AI 101** — FutureSkills Prime, NASSCOM (Mar 2026) · Course Participation
+
+
 
 ---
 # 💼 Experience
