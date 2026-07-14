@@ -182,11 +182,11 @@ https://github.com/prathmesh0work/credit-card-fraud-detection
 
 # 🏆 GitHub Trophies
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prathmesh0work&theme=algolia&row=1&column=6"/>
 
-</p>
+!![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=prathmesh0work)
+
+
 
 ---
 
