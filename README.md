@@ -192,8 +192,9 @@ https://github.com/prathmesh0work/credit-card-fraud-detection
 
 ## 📜 Certifications
  
-- 🏅 **Data Analyst Certification** — AISECT Skill India (2025) · Python, SQL, Visualization, Statistics
-- 🏅 **Python & SQL** — ETLHIVE (2024) · Data manipulation, querying, automation
+- 🏅 **Data Analyst Course** — AISECT Skill India, NSDC (18 Feb 2025) · Grade B · Certificate ID: CERT_2495429
+- 🏅 **Python Programming** — ETLHIVE (Oct 2024) · ID: 968849PR
+- 🏅 **SQL** — ETLHIVE (Oct 2024) · ID: 968849PR
 - 🏅 **SQL (Basic)** — HackerRank ([Verify](your-verification-link-basic))
 - 🏅 **SQL (Intermediate)** – HackerRank ([Verify](https://www.hackerrank.com/certificates/060e5df87ee7))
 - 🏅 **AI Tools Workshop** — be10x (June 2026) · AI-assisted presentations, data analysis, code & debugging ([Verify](https://app.aicareeraccelerator.in/certificate/QKQo1n-iL4eqsYK))
