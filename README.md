@@ -121,16 +121,6 @@ A lightweight CRUD task manager with a Flask backend, SQLite database, and respo
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](./trophy.svg)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
