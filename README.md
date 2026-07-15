@@ -137,7 +137,7 @@ A lightweight CRUD task manager with a Flask backend, SQLite database, and respo
 
 ![Prathmesh's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Prathmesh0work&theme=dark&hide_border=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Prathmesh0work&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Prathmesh0work&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Prathmesh0work&theme=dark&hide_border=true&layout=compact)
 
