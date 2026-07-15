@@ -125,7 +125,7 @@ A lightweight CRUD task manager with a Flask backend, SQLite database, and respo
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-winning.vercel.app/?username=prathmesh0work&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](./trophy.svg)
 
 </div>
 
