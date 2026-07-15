@@ -77,7 +77,7 @@ End-to-end ML project for predicting advertising campaign performance and ROI. I
 
 ---
 
-### 🔐 [Credit Card Fraud Detection](https://github.com/prathmesh0work/credit-card-fraud-detection)
+### 🔐 [Credit Card Fraud Detection](https://github.com/prathmesh0work/Credit-Card-Fraud-Detection)
 > Python · Scikit-learn · SMOTE · Random Forest · Logistic Regression
 
 Built a binary classifier on 284,807 transactions (0.17% fraud rate). Applied SMOTE to handle severe class imbalance. Random Forest outperformed Logistic Regression by capturing non-linear patterns, achieving strong ROC-AUC performance.
