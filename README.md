@@ -84,6 +84,13 @@ Built a binary classifier on 284,807 transactions (0.17% fraud rate). Applied SM
 
 ---
 
+### 🗃️ [SQL Quest](https://github.com/prathmesh0work/SQL-practice)
+> MySQL · Subqueries · CTEs · Window Functions · Correlated Subqueries · EXISTS/NOT EXISTS
+
+An ongoing daily MySQL practice repo built on a 6-table e-commerce schema (Customers, Products, Orders, Payments, etc.). Covers subqueries, CTEs, and window functions (`RANK()`, `ROW_NUMBER()`, `LAG()`, `PARTITION BY`) so far, with new sessions added regularly and each query documented by topic.
+
+---
+
 ### ✅ [MyTodo](https://github.com/prathmesh0work/Flask-My-Todo)
 > Flask · SQLAlchemy · SQLite · Bootstrap 5
 
