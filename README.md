@@ -2,7 +2,7 @@
 
 # Hey, I'm Prathmesh Ingole 👋
 
-**Data Analyst in Training · M.Sc. Data Science Student · Insight Hunter**
+**Data Analyst in Training · M.Sc. Data Science Student · **
 
 *Turning raw data into decisions — one query at a time.*
 
