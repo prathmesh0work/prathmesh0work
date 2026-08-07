@@ -33,7 +33,6 @@ I'm a **B.Sc. Computer Science** graduate from Savitribai Phule Pune University,
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Data & Analytics**
@@ -64,11 +63,19 @@ I'm a **B.Sc. Computer Science** graduate from Savitribai Phule Pune University,
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📺 [DOOH Campaign Intelligence](https://github.com/prathmesh0work/DOOH-Campaign-Intelligence)
+> Flask · Python · JavaScript · Chart.js · MySQL
+
+Full-stack analytics dashboard for Digital Out-of-Home (DOOH) advertising campaigns. Features fuzzy column detection, a six-step data cleaning pipeline, KPI aggregation (ROI, CTR, CPC, CPM), screen occupancy tracking, delivery discrepancy detection, and per-screen anomaly detection — built during internship at Lemma Technologies.
+
+---
 
 ### 📣 [Campaign Performance Prediction](https://github.com/prathmesh0work/Campaign-Performance-Prediction)
 > Python · Random Forest · Linear Regression · Power BI · EDA
@@ -88,6 +95,13 @@ Built a binary classifier on 284,807 transactions (0.17% fraud rate). Applied SM
 > MySQL · Basics & Aggregations · Joins · Subqueries · CTEs · Window Functions
 
 An ongoing daily MySQL practice repo built on a 6-table e-commerce schema (Customers, Products, Orders, Payments, etc.). Covers SQL fundamentals (SELECT/WHERE/GROUP BY/HAVING), joins (INNER/LEFT, multi-table), subqueries (correlated, EXISTS/NOT EXISTS), CTEs, and window functions from basic ranking (`RANK()`, `ROW_NUMBER()`, `LAG()`) through advanced analytics (`NTILE()`, `CUME_DIST()`, `PERCENT_RANK()`) — with new sessions added regularly and each query documented by topic.
+
+---
+
+### 🍃 [MongoDB Quest](https://github.com/prathmesh0work/MongoDB-Practice)
+> MongoDB · CRUD · Aggregation Pipelines · $lookup
+
+Ongoing slip-style MongoDB practice repo covering CRUD operations, sort/limit, projections, `$or`/`$in`/`$regex` queries, and aggregation pipelines with `$lookup` across multiple sample databases (movieDB, companyDB, deptDB, sales, libraryDB, hospitalDB).
 
 ---
 
