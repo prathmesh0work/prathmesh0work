@@ -94,7 +94,7 @@ Built a binary classifier on 284,807 transactions (0.17% fraud rate). Applied SM
 ### 🗃️ [SQL Quest](https://github.com/prathmesh0work/SQL-practice)
 > MySQL · Basics & Aggregations · Joins · Subqueries · CTEs · Window Functions
 
-An ongoing daily MySQL practice repo built on a 6-table e-commerce schema (Customers, Products, Orders, Payments, etc.). Covers SQL fundamentals (SELECT/WHERE/GROUP BY/HAVING), joins (INNER/LEFT, multi-table), subqueries (correlated, EXISTS/NOT EXISTS), CTEs, and window functions from basic ranking (`RANK()`, `ROW_NUMBER()`, `LAG()`) through advanced analytics (`NTILE()`, `CUME_DIST()`, `PERCENT_RANK()`) — with new sessions added regularly and each query documented by topic.
+An ongoing daily MySQL practice repo built on a 6-table e-commerce schema (Customers, Products, Orders, Payments, etc.). Covers SQL fundamentals (SELECT/WHERE/GROUP BY/HAVING), joins (INNER/LEFT, multi-table, self-joins), subqueries (correlated, EXISTS/NOT EXISTS), CTEs, and window functions from basic ranking (`RANK()`, `ROW_NUMBER()`, `LAG()`) through advanced analytics (`NTILE()`, `CUME_DIST()`, `PERCENT_RANK()`) — now including customer retention/cohort analysis, spend-concentration trends, and DataLemur-style interview problems, with new sessions added regularly and each query documented by topic.
 
 ---
 
